@@ -4,6 +4,6 @@
 
 ### CV PDF version 
 - Typed in LuaLaTeX with hyperlinks
-- Last updated: August 19, 2020
+- Last updated: August 20, 2020
 - Look at my [GitHub repository](https://github.com/carlacisternasg/CV-LuaLaTeX/blob/master/CV-Carla-Cisternas.pdf)
 - Look at my website [carlacisternas.com](https://carlacisternas.com/) 
