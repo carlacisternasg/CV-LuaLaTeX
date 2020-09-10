@@ -1,0 +1,59 @@
+%!TEX TS-program = lualatex
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% CV-LuaLaTeX en ESPAÑOL
+%% Carla Cisternas
+%% https://github.com/carlacisternasg/CV-LuaLaTeX
+
+%% Based on the Awesome CV LaTeX Template
+%% https://github.com/darwiin/awesome-neue-latex-cv
+%% and the Bastián Gozález-Bustamante's CV-LaTeX Template
+%% https://github.com/bgonzalezbustamante/CV-LaTeX
+
+%% Creative Commons Attribution 4.0 International License
+%% https://github.com/carlacisternasg/CV-LuaLaTeX/blob/master/LICENSE.txt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[localFont,alternative,10pt,compact]{../cc-cv-style}
+\usepackage[spanish]{babel}
+
+\name{Carla}{Cisternas}
+\tagline{Magíster en Ciencia Política {\footnotesize (esperado este 2020)}}
+%% \photo{2.5cm}{file}
+\socialinfo{
+	\email{carla.cisternas@usach.cl} 
+	\website{https://carlacisternas.com}{https://carlacisternas.com} 
+	\github{carlacisternasg}\\
+	%% \smartphone{}
+	%% \address{}\\
+	%% \infos{}
+}
+
+%\setleftcolumnlength{2.5cm}
+
+\definecolor{cccolor}{HTML}{6600cc}
+
+\begin{document}
+
+	\makecvheader
+
+	\makecvfooter
+		{\textsc{\selectlanguage{spanish}\today}} 
+		{\textsc{Carla Cisternas}}
+		{\thepage}
+
+	\input{sections/profile} 
+     \input{sections/education}
+     \input{sections/experience}
+	 \input{sections/publications}
+	 \input{sections/workingpapers}
+	 \input{sections/projets}
+	 \input{sections/conferences}
+	 \input{sections/teaching}
+	 \input{sections/languages}
+	 \input{sections/awards}
+	 \input{sections/references}
+
+\end{document}
