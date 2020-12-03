@@ -10,3 +10,4 @@
 ### CV PDF version in Spanish
 - Typed in LuaLaTeX with hyperlinks
 - Look at my [GitHub repository](https://github.com/carlacisternasg/CV-LuaLaTeX/blob/master/spanish-version/CV-Carla-Cisternas.pdf)
+- Look at my website [carlacisternas.com](https://carlacisternas.com/) 
