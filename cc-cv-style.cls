@@ -192,13 +192,15 @@
 \newcommand{\infoSymbol}{\faInfo}
 \newcommand{\linkedinSymbol}{\faLinkedinIn}
 \newcommand{\viadeoSymbol}{\faViadeo}
-\newcommand{\mobileSymbol}{\faMobile*}
+%% \newcommand{\mobileSymbol}{\faMobile*}
+\newcommand{\mobileSymbol}{\faPhone*}
 \newcommand{\githubSymbol}{\faGithub}
 \newcommand{\stackoverflowSymbol}{\faStackOverflow}
 \newcommand{\stackexchangeSymbol}{\faStackExchange}
 \newcommand{\mediumSymbol}{\faMedium}
 \newcommand{\bitbucketSymbol}{\faBitbucket}
 \newcommand{\websiteSymbol}{\faLink}
+\newcommand{\infoIISymbol}{\faUserFriends}
 
 
 \newcommand\link[2]{\color{linkcolor}\href{#1}{#2}\color{Black} }
@@ -249,6 +251,7 @@
 % Render author's infos
 % Usage: \infos{<infos>}
 \newcommand*{\infos}[1]{\socialtext{\infoSymbol}{#1}}
+\newcommand*{\infosII}[1]{\socialtext{\infoIISymbol}{#1}}
 
 % Render author's linked-in (optional)
 % Usage: \linkedin{<linked-in-nick>}
