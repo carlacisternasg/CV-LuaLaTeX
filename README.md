@@ -4,10 +4,10 @@
 
 ### CV PDF version in English
 - Typed in LuaLaTeX with hyperlinks
-- Look at my [GitHub repository](https://github.com/carlacisternasg/CV-LuaLaTeX/blob/master/CV-Carla-Cisternas.pdf)
-- Look at my website [carlacisternas.com](https://carlacisternas.com/) 
+- It is on my [GitHub repository](https://github.com/carlacisternasg/CV-LuaLaTeX/blob/master/CV-Carla-Cisternas.pdf)
+- See my website [carlacisternas.com](https://carlacisternas.com/) 
 
 ### CV PDF version in Spanish
 - Typed in LuaLaTeX with hyperlinks
-- Look at my [GitHub repository](https://github.com/carlacisternasg/CV-LuaLaTeX/blob/master/spanish-version/CV-Carla-Cisternas.pdf)
-- Look at my website [carlacisternas.com](https://carlacisternas.com/) 
+- It is on my [GitHub repository](https://github.com/carlacisternasg/CV-LuaLaTeX/blob/master/spanish-version/CV-Carla-Cisternas.pdf)
+- See my website [carlacisternas.com](https://carlacisternas.com/) 
