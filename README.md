@@ -1,6 +1,6 @@
 ## CV-LuaLaTeX
 
-[![Update](https://img.shields.io/badge/latest%20update-July%202022-orange.svg)](https://github.com/carlacisternasg/CV-LuaLaTeX/blob/master/CV-Carla-Cisternas.pdf) [![GitHub issues](https://img.shields.io/github/issues/carlacisternasg/CV-LuaLaTeX.svg)](https://github.com/carlacisternasg/CV-LuaLaTeX/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/carlacisternasg/CV-LuaLaTeX.svg)](https://github.com/carlacisternasg/CV-LuaLaTeX/issues?q=is%3Aissue+is%3Aclosed) [![License](https://img.shields.io/badge/license-LPPL%20v1.3c-black)](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/LICENSE.md) [![Latex](https://img.shields.io/badge/made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/) 
+[![Update](https://raw.githubusercontent.com/carlacisternasg/CV-LuaLaTeX/master/badges/nov_2023.svg)](https://github.com/carlacisternasg/CV-LuaLaTeX/blob/master/CV-Carla-Cisternas.pdf) [![License](https://raw.githubusercontent.com/carlacisternasg/CV-LuaXeLaTeX/master/badges/lppl.svg)](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/LICENSE.md) [![Latex](https://raw.githubusercontent.com/carlacisternasg/CV-LuaXeLaTeX/master/badges/latex.svg)](https://www.latex-project.org/) 
 
 ### CV PDF version in English
 - Typed in LuaLaTeX with hyperlinks
